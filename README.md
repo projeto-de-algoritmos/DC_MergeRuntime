@@ -24,15 +24,13 @@ Para visualizar melhor o tempo de execução do algoritmo de merge sort, plotamo
 
 Retorno da execução do projeto. Gráfico que representa o tempo em que o algoritmo passa dividindo e conquistando.
 
-![runtime](img/runtime.jpg)
+![runtime](img/runtime.png)
 
 ## ⚙️ Instalação
 
 **Linguagem**: 🐍 Python<br>
 
 ### Para distribuição Linux 🐧 :
-
-**Para a execução do projeto é necessário a instalação previa do docker e docker-compose.**
 
 1. [Clone](https://help.github.com/en/articles/cloning-a-repository) o repositório do projeto. Para clonar vá ao terminal e digite:
 
@@ -46,11 +44,16 @@ $ git clone https://github.com/projeto-de-algoritmos/DC_MergeRuntime.git
 $ cd DC_MergeRuntime
 ```
 
-3. Para compilar o projeto, entre a pasta /api e execute o comando do docker:
+3. Antes de compilar o projeto, instale as dependências:
 
 ```
-$
-$
+$ pip install -r requirements.txt
+```
+
+4. Para compilar o projeto, execute o comando:
+
+```
+$ python main.py
 ```
 
 4. Depois de realizar todos esses passos, aproveite o projeto e divirta-se!
