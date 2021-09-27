@@ -26,6 +26,10 @@ Retorno da execução do projeto. Gráfico que representa o tempo em que o algor
 
 ![runtime](img/runtime.jpg)
 
+Print do terminal sendo o primeiro item de cada linha o tamanho do array, o segundo é o tempo de execução para a etapa de dividir, o terceiro o tempo da etapa de conquistar e o quarto e último é a razão entre o dividir e conquistar.
+
+![time](img/times.jpg)
+
 ## ⚙️ Instalação
 
 **Linguagem**: 🐍 Python<br>
