@@ -24,7 +24,7 @@ Para visualizar melhor o tempo de execução do algoritmo de merge sort, plotamo
 
 Retorno da execução do projeto. Gráfico que representa o tempo em que o algoritmo passa dividindo e conquistando.
 
-![runtime](img/runtime.png)
+![runtime](img/runtime.jpg)
 
 ## ⚙️ Instalação
 
