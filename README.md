@@ -20,6 +20,9 @@ Temas:
 
 Para visualizar melhor o tempo de execução do algoritmo de merge sort, plotamos um gráfico para visualizar o tempo que o algoritmo dedica para dividir e para conquistar a ordenação.
 
+## Video
+[Link para o video explicativo](https://drive.google.com/file/d/1RocYFTjRwHFIubTupZaF5CJGKhontJcT/view?usp=sharing)
+
 ## 📷 Screenshots
 
 Retorno da execução do projeto. Gráfico que representa o tempo em que o algoritmo passa dividindo e conquistando.
